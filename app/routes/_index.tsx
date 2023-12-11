@@ -18,6 +18,7 @@ export default function Index() {
         <li><NavLink to="/erin">Erin Lindsay</NavLink></li>
         <li><NavLink to="/form-states">Form States</NavLink></li>
         <li><NavLink to="/group-modifiers">Group Modifiers</NavLink></li>
+        <li><NavLink to="/peer-modifier">Peer Modifiers</NavLink></li>
       </ul>
 
       <DemoButton text="Demo Button" />
