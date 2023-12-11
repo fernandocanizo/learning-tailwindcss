@@ -11,7 +11,7 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <ul> 
+    <ul className="max-w-sm mx-auto bg-blue rounded-sm shadow-lg items-center"> 
       <li><NavLink to="/chitchat">ChitChat</NavLink></li>
       <li><NavLink to="/erin">Erin Lindsay</NavLink></li>
     </ul>
