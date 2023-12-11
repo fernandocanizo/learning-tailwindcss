@@ -16,6 +16,7 @@ export default function Index() {
       <ul className="max-w-sm mx-auto bg-blue rounded-sm shadow-lg items-center"> 
         <li><NavLink to="/chitchat">ChitChat</NavLink></li>
         <li><NavLink to="/erin">Erin Lindsay</NavLink></li>
+        <li><NavLink to="/form-states">Form States</NavLink></li>
       </ul>
 
       <DemoButton text="Demo Button" />
