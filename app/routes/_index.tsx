@@ -21,6 +21,7 @@ export default function Index() {
         <li><NavLink to="/peer-modifier">Peer Modifiers</NavLink></li>
         <li><NavLink to="/responsive-grid">Responsive Grid</NavLink></li>
         <li><NavLink to="/color-scheme">Color Scheme</NavLink></li>
+        <li><NavLink to="/orientation">Orientation <span>(Not working as expected)</span></NavLink></li>
       </ul>
 
       <DemoButton text="Demo Button" />
